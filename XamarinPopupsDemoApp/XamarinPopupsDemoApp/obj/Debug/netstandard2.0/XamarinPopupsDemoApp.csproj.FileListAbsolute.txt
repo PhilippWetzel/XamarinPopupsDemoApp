@@ -1,0 +1,13 @@
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\bin\Debug\netstandard2.0\XamarinPopupsDemoApp.deps.json
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\bin\Debug\netstandard2.0\XamarinPopupsDemoApp.dll
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\bin\Debug\netstandard2.0\ref\XamarinPopupsDemoApp.dll
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\bin\Debug\netstandard2.0\XamarinPopupsDemoApp.pdb
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\obj\Debug\netstandard2.0\XamarinPopupsDemoApp.csprojAssemblyReference.cache
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\obj\Debug\netstandard2.0\XamarinPopupsDemoApp.AssemblyInfoInputs.cache
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\obj\Debug\netstandard2.0\XamarinPopupsDemoApp.AssemblyInfo.cs
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\obj\Debug\netstandard2.0\XamarinPopupsDemoApp.dll
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\obj\Debug\netstandard2.0\ref\XamarinPopupsDemoApp.dll
+C:\GitHub\XamarinPopupsDemoApp\XamarinPopupsDemoApp\XamarinPopupsDemoApp\obj\Debug\netstandard2.0\XamarinPopupsDemoApp.pdb
